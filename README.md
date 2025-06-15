@@ -9,17 +9,8 @@ A pixel‑perfect, responsive Netflix landing page replica built with **HTML5** 
 1. [Project Overview](#project-overview)  
 2. [Features](#features)  
 3. [Demo](#demo)  
-4. [Screenshots](#screenshots)  
-5. [Tech Stack](#tech-stack)  
-6. [Folder Structure](#folder-structure)  
-7. [Installation & Usage](#installation--usage)  
-8. [Code Highlights](#code-highlights)  
-9. [Responsive Design](#responsive-design)  
-10. [Accessibility](#accessibility)  
-11. [Performance Optimizations](#performance-optimizations)  
-12. [Contributing](#contributing)  
-13. [License](#license)  
-14. [Acknowledgements](#acknowledgements)  
+4. [Tech Stack](#tech-stack)  
+ 
 
 ---
 
