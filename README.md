@@ -71,16 +71,7 @@ A live hosted version is available here:
 
 ---
 
-## Screenshots
 
-<p align="center">
-  <img src="./screenshots/hero-desktop.png" alt="Hero section on desktop" width="600"/>
-  <img src="./screenshots/movie-grid-mobile.png" alt="Movie grid on mobile" width="200"/>
-</p>
-
-> *Replace the above images with actual screenshots from your `screenshots/` folder.*
-
----
 
 ## Tech Stack
 
@@ -90,6 +81,4 @@ A live hosted version is available here:
 - **No JavaScript** (purely static)
 
 ---
-
-## Folder Structure
 
